@@ -1,0 +1,101 @@
+review_id,product_id,review_text,rating
+1,101,Terrible experience. Waste of money.,1
+2,102,"Average product, okay for the price.",2
+3,103,Cheap and bad build. Don’t buy.,1
+4,104,The worst I've had. Crap item.,1
+5,105,"Basic product, no complaints.",2
+6,106,Not great. Broke within a week.,1
+7,107,The worst I've had. Crap item.,2
+8,108,Standard item. Does the job.,2
+9,109,Loved every bit of it!,5
+10,110,Boring design. Not impressive.,2
+11,111,It's usable.,2
+12,112,Terrible experience. Waste of money.,2
+13,113,Cheap and bad build. Don’t buy.,1
+14,114,Works as expected.,2
+15,115,It's usable.,3
+16,116,Horrible! Stopped working in 2 days.,1
+17,117,Standard item. Does the job.,2
+18,118,Standard item. Does the job.,3
+19,119,Great value for money.,4
+20,120,Simply perfect. Loved it!,4
+21,121,Works as expected.,3
+22,122,"Product is fine, nothing outstanding.",2
+23,123,Satisfactory performance.,3
+24,124,Cheap and bad build. Don’t buy.,2
+25,125,It's usable.,3
+26,126,Amazing results. Would buy again.,4
+27,127,It's usable.,3
+28,128,Terrible experience. Waste of money.,1
+29,129,Trash quality. Total waste.,1
+30,130,Satisfactory performance.,3
+31,131,Horrible! Stopped working in 2 days.,2
+32,132,Loved every bit of it!,4
+33,133,Loved it. Great for gifts.,4
+34,134,Loved the packaging and delivery!,5
+35,135,Amazing service and quality. Highly recommend.,4
+36,136,Okay for daily use.,2
+37,137,Trash quality. Total waste.,2
+38,138,Loved the packaging and delivery!,4
+39,139,"Product is fine, nothing outstanding.",2
+40,140,Great value for money.,4
+41,141,Absolutely amazing product! Love it!,4
+42,142,Simply perfect. Loved it!,4
+43,143,Standard item. Does the job.,3
+44,144,Great value for money.,5
+45,145,Loved the packaging and delivery!,4
+46,146,Just okay. Could improve.,2
+47,147,Horrible! Stopped working in 2 days.,1
+48,148,Cheap and bad build. Don’t buy.,2
+49,149,Amazing service and quality. Highly recommend.,4
+50,150,The worst I've had. Crap item.,2
+51,151,This is the best product I’ve used.,4
+52,152,Worst quality. Total crap.,1
+53,153,Horrible! Stopped working in 2 days.,2
+54,154,Great value for money.,5
+55,155,Disappointed. Expected better.,1
+56,156,Loved the packaging and delivery!,5
+57,157,Not great. Broke within a week.,1
+58,158,Amazing service and quality. Highly recommend.,5
+59,159,"Basic product, no complaints.",3
+60,160,Works as expected.,2
+61,161,"Product is fine, nothing outstanding.",2
+62,162,Horrible! Stopped working in 2 days.,1
+63,163,Amazing service and quality. Highly recommend.,4
+64,164,"Decent item, nothing special.",2
+65,165,"Decent item, nothing special.",2
+66,166,Loved it. Great for gifts.,4
+67,167,Great value for money.,4
+68,168,Just okay. Could improve.,3
+69,169,Amazing service and quality. Highly recommend.,5
+70,170,The worst I've had. Crap item.,2
+71,171,Worst quality. Total crap.,2
+72,172,This is the best product I’ve used.,5
+73,173,The worst I've had. Crap item.,1
+74,174,Loved the packaging and delivery!,5
+75,175,Amazing results. Would buy again.,5
+76,176,Boring design. Not impressive.,2
+77,177,Disappointed. Expected better.,2
+78,178,Standard item. Does the job.,2
+79,179,Simply perfect. Loved it!,5
+80,180,Cheap and bad build. Don’t buy.,2
+81,181,Not great. Broke within a week.,1
+82,182,"Product is fine, nothing outstanding.",3
+83,183,Loved the packaging and delivery!,4
+84,184,Satisfactory performance.,2
+85,185,Loved the packaging and delivery!,4
+86,186,Great value for money.,4
+87,187,Satisfactory performance.,3
+88,188,Okay for daily use.,3
+89,189,Terrible experience. Waste of money.,1
+90,190,Cheap and bad build. Don’t buy.,1
+91,191,Loved the packaging and delivery!,4
+92,192,Not great. Broke within a week.,2
+93,193,"Decent item, nothing special.",3
+94,194,"Decent item, nothing special.",3
+95,195,Loved the packaging and delivery!,5
+96,196,Amazing service and quality. Highly recommend.,5
+97,197,Terrible experience. Waste of money.,2
+98,198,Worst quality. Total crap.,1
+99,199,It's usable.,3
+100,200,Loved every bit of it!,5
